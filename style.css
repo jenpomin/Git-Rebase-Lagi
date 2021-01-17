@@ -1,3 +1,7 @@
 p {
     color: orange;
 }
+
+p:last-of-type {
+    color: red;
+}
